@@ -1,2 +1,2 @@
 # starwars
- [visite a pagina ]https://celsooaronpereirasilvaleme.github.io/starwars/
+https://celsooaronpereirasilvaleme.github.io/starwars/
